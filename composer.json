@@ -1,0 +1,21 @@
+{
+    "name": "poshtiban/yii2-cpanel-api",
+    "description": "Yii2 extension for cpanel",
+    "type": "yii2-extension",
+    "keywords": ["poshtiban"," cpanel api"," php "," yii2"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Arash",
+            "email": "dev@poshtiban.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "poshtiban\\cpanelAPI\\": ""
+        }
+    }
+}
