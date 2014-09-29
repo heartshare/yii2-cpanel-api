@@ -39,4 +39,5 @@ Once the extension is installed, simply use it in your code by  :
         'name'=>'subdemo',
         'domain'=>'example.com',
     ]);
+
 ?>```
